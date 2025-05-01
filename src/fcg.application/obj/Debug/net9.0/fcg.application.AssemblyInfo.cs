@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fcg.application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+653b88ae82f27ed2eba1e9a4dd2bff6a4fded2da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+149c0e23f893f9d82fabba7fac88e4f30a53a868")]
 [assembly: System.Reflection.AssemblyProductAttribute("fcg.application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fcg.application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
