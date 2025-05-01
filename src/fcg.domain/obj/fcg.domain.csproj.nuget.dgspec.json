@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bjose\\Development\\Pós\\Tech Challenge\\fcg\\src\\fcg.domain\\fcg.domain.csproj": {}
+    "C:\\Users\\bjose\\Development\\Pós\\Tech Challenge\\solo\\PosTech\\src\\fcg.domain\\fcg.domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bjose\\Development\\Pós\\Tech Challenge\\fcg\\src\\fcg.domain\\fcg.domain.csproj": {
+    "C:\\Users\\bjose\\Development\\Pós\\Tech Challenge\\solo\\PosTech\\src\\fcg.domain\\fcg.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bjose\\Development\\Pós\\Tech Challenge\\fcg\\src\\fcg.domain\\fcg.domain.csproj",
+        "projectUniqueName": "C:\\Users\\bjose\\Development\\Pós\\Tech Challenge\\solo\\PosTech\\src\\fcg.domain\\fcg.domain.csproj",
         "projectName": "fcg.domain",
-        "projectPath": "C:\\Users\\bjose\\Development\\Pós\\Tech Challenge\\fcg\\src\\fcg.domain\\fcg.domain.csproj",
+        "projectPath": "C:\\Users\\bjose\\Development\\Pós\\Tech Challenge\\solo\\PosTech\\src\\fcg.domain\\fcg.domain.csproj",
         "packagesPath": "C:\\Users\\bjose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bjose\\Development\\Pós\\Tech Challenge\\fcg\\src\\fcg.domain\\obj\\",
+        "outputPath": "C:\\Users\\bjose\\Development\\Pós\\Tech Challenge\\solo\\PosTech\\src\\fcg.domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

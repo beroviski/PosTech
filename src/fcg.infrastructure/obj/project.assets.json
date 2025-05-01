@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bjose\\Development\\Pós\\Tech Challenge\\fcg\\src\\fcg.infrastructure\\fcg.infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\bjose\\Development\\Pós\\Tech Challenge\\solo\\PosTech\\src\\fcg.infrastructure\\fcg.infrastructure.csproj",
       "projectName": "fcg.infrastructure",
-      "projectPath": "C:\\Users\\bjose\\Development\\Pós\\Tech Challenge\\fcg\\src\\fcg.infrastructure\\fcg.infrastructure.csproj",
+      "projectPath": "C:\\Users\\bjose\\Development\\Pós\\Tech Challenge\\solo\\PosTech\\src\\fcg.infrastructure\\fcg.infrastructure.csproj",
       "packagesPath": "C:\\Users\\bjose\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bjose\\Development\\Pós\\Tech Challenge\\fcg\\src\\fcg.infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\bjose\\Development\\Pós\\Tech Challenge\\solo\\PosTech\\src\\fcg.infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
